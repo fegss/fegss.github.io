@@ -1,2 +1,2 @@
-# fegss.github.io
-Desafio Dev
+# jornada-dev.github.io
+Currículo do Jornada Dev
